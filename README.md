@@ -8,14 +8,14 @@ Para configurar este projeto localmente, siga estas etapas:
 
 1. **Clone o repositório:**
 
-```bash git clone https://github.com/skapskap/at1-matcomp.git cd at1-matcomp```
+```git clone https://github.com/skapskap/at1-matcomp.git cd at1-matcomp```
 
 
 2. **Instale as dependências:**
 
 Este projeto requer Python 3 e algumas bibliotecas externas. Você pode instalar todas as dependências necessárias usando o seguinte comando:
 
-```bash pip install -r requirements.txt ``` 
+```pip install -r requirements.txt ``` 
 
 
 ## 🚀 Executando o Projeto
@@ -24,11 +24,11 @@ O projeto é dividido em duas partes principais: análise de distribuição de f
 
 - Para executar a análise de distribuição de frequência e imprimir as tabelas de distribuição de frequência e ROL, além de calcular e imprimir a média, mediana e moda:
 
-```bash python main.py```
+```python main.py```
 
 - Para gerar e visualizar o histograma dos dados:
 
-```bash python histogram.py```
+```python histogram.py```
 
 
 ## 📃 Resultados
